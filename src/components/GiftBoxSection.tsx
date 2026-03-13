@@ -8,9 +8,9 @@ const GiftBoxSection = () => {
 
   // Images for the 3 boxes
   const boxImages = [
-    "/images/a.JPG",
-    "/images/b.jpg",
-    "/images/c.jpg"
+    "/vid/a.JPG",
+    "/vid/b.jpg",
+    "/vid/c.jpg"
   ];
 
   const handleBoxClick = (boxIndex: number) => {

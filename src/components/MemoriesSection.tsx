@@ -6,51 +6,51 @@ const MemoriesSection = () => {
 
   const memories = [
     {
-      url: '/images/IMG_1871.JPG',
+      url: '/vid/IMG_1871.JPG',
       caption: 'Beautiful You'
     },
     {
-      url: '/images/IMG_20230531_201631_883.jpg',
+      url: '/vid/IMG_20230531_201631_883.jpg',
       caption: 'Our Happy Moments'
     },
     {
-      url: '/images/x.JPG',
+      url: '/vid/x.JPG',
       caption: 'Together Forever'
     },
     {
-      url: '/images/i.jpg',
+      url: '/vid/i.jpg',
       caption: 'Your Smile'
     },
     {
-      url: '/images/IMG_2861.JPG',
+      url: '/vid/IMG_2861.JPG',
       caption: 'Us'
     },
     {
-      url: '/images/j.jpg',
+      url: '/vid/j.jpg',
       caption: 'Forever Yours'
     },
     {
-      url: '/images/k.webp',
+      url: '/vid/k.webp',
       caption: 'Sweet Memories'
     },
     {
-      url: '/images/l.jpg',
+      url: '/vid/l.jpg',
       caption: 'My Love'
     },
     {
-      url: '/images/m.webp',
+      url: '/vid/m.webp',
       caption: 'Always You'
     },
     {
-      url: '/images/n.jpg',
+      url: '/vid/n.jpg',
       caption: 'You & Me'
     },
     {
-      url: '/images/o.jpg',
+      url: '/vid/o.jpg',
       caption: 'Endless Love'
     },
     {
-      url: '/images/p.jpg',
+      url: '/vid/p.jpg',
       caption: 'Perfect Together'
     }
   ];

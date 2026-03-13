@@ -32,7 +32,7 @@ const HeroSection = () => {
 
       <div className="absolute inset-0 flex items-center justify-center">
         <img
-          src="/images/first.jpg"
+          src="/vid/first.jpg"
           alt="Romantic background"
           className="w-full h-full object-cover opacity-30"
         />
@@ -60,7 +60,7 @@ const HeroSection = () => {
 
         <div className="animate-slideUp" style={{ animationDelay: '0.6s' }}>
           <img
-            src="/images/she.JPG"
+            src="/vid/she.JPG"
             alt="Romantic moment"
             className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full mx-auto shadow-2xl border-8 border-white/50 hover:scale-105 transition-transform duration-500"
           />
