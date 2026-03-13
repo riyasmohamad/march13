@@ -1,15 +1,15 @@
 const VideoCollage = () => {
   const contentItems = [
     { type: 'video', src: '/images/1.mp4', span: 'col-span-1 md:col-span-2 row-span-2' },
-    { type: 'video', src: '/images/IMG_0 (1).MOV', span: 'col-span-1 md:col-span-1 row-span-2' },
+    { type: 'video', src: '/images/IMG_0_(1).MOV', span: 'col-span-1 md:col-span-1 row-span-2' },
     { type: 'video', src: '/images/2.mp4', span: 'col-span-2 md:col-span-2 row-span-1' },
     { type: 'video', src: '/images/3.mp4', span: 'col-span-1 md:col-span-1 row-span-1' },
     { type: 'text', content: 'With you, everything feels right', span: 'col-span-2 md:col-span-3 row-span-1' },
-    { type: 'video', src: '/images/IMG_0 (2).MOV', span: 'col-span-1 md:col-span-1 row-span-2' },
+    { type: 'video', src: '/images/IMG_0_(2).MOV', span: 'col-span-1 md:col-span-1 row-span-2' },
     { type: 'video', src: '/images/4.mp4', span: 'col-span-1 md:col-span-2 row-span-1' },
     { type: 'video', src: '/images/VID_112680802_044721_187.mp4', span: 'col-span-1 md:col-span-1 row-span-1' },
     { type: 'video', src: '/images/VN20230227_150153.mp4', span: 'col-span-2 md:col-span-2 row-span-2' },
-    { type: 'video', src: '/images/IMG_0 (7).MOV', span: 'col-span-1 md:col-span-1 row-span-1' },
+    { type: 'video', src: '/images/IMG_0_(7).MOV', span: 'col-span-1 md:col-span-1 row-span-1' },
     { type: 'video', src: '/images/VID-20230919-WA0112.mp4', span: 'col-span-1 md:col-span-1 row-span-1' },
     { type: 'video', src: '/images/IMG_2856.MP4', span: 'col-span-1 md:col-span-1 row-span-1' },
   ];
